@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/budgeting/"}
+---
+- Related to [[Balanced scorecard|Balanced scorecard]] as budgeting is one of the major tools to translate strategic goals into financial plans
+- Overall budget is built upon several individual budgets:
+	- Sales or revenues budget
+	- Trade receivable budget
+	- Trade payable budget
+	- Manufacturing budget
+	- Production budget (labour, direct materials, overheads)
+	- Raw material budget
+	- Finished goods budget
+	- Cash budget
+- Budget process is often annual, starting with objective setting, followed by forecasting and creating plans and then regularly comparing the results with the plans and evaluating performance. This way management can keep control of the company's performance. 
