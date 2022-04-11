@@ -32,3 +32,8 @@ Link to digital garden: https://dashing-scone-abac0e.netlify.app/
 [[Digital Business Model Design]]*
 
 *Electives still TBC*
+
+---
+Key readings:
+[Key MBA Models](https://learning.oreilly.com/library/view/key-mba-models/9781292016856/)
+[Key Management Models](https://learning.oreilly.com/search/?query=models%20management&extended_publisher_data=true&highlight=true&include_assessments=false&include_case_studies=true&include_courses=true&include_playlists=true&include_collections=true&include_notebooks=true&include_sandboxes=true&include_scenarios=true&is_academic_institution_account=false&source=user&sort=relevance&facet_json=true&json_facets=true&page=0&include_facets=true&include_practice_exams=true)
